@@ -5,7 +5,7 @@ From curiosity-fueled experiments to skill-building challenges, this repository 
 ---
 
 ## 🕹️ Project 1: Tetris
-This project was developed using **Python** 🐍, **PyCharm** 🖋️, **Cursor** 🖥️, **ChatGPT** 🤖, and **free assets** 🎨.  
+This project was developed using **Python** 🐍, **PyGame** 🎮, **Cursor** 🖥️, **ChatGPT** 🤖, and **free assets** 🎨.  
 It began out of curiosity (and a little boredom 😅) and grew into a fun way to:
 
 - Explore AI’s capabilities 🤖
